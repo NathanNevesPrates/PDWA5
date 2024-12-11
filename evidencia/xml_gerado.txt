@@ -1,0 +1,32 @@
+<data>
+<item>
+<tamanho>P</tamanho>
+<sabor>Doce de leite</sabor>
+<custo>120</custo>
+<marca>Nestle</marca>
+</item>
+<item>
+<tamanho>M</tamanho>
+<sabor>Cafe</sabor>
+<custo>239.99</custo>
+<marca>Nescafe</marca>
+</item>
+<item>
+<tamanho>P</tamanho>
+<sabor>Leite Condensado</sabor>
+<custo>1,99</custo>
+<marca>EU</marca>
+</item>
+<item>
+<tamanho>G</tamanho>
+<sabor>Batata</sabor>
+<custo>42069</custo>
+<marca>Batatata</marca>
+</item>
+<item>
+<tamanho>G</tamanho>
+<sabor>Desespero</sabor>
+<custo>0</custo>
+<marca>Vida</marca>
+</item>
+</data>
